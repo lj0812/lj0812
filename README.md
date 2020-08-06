@@ -15,6 +15,11 @@
 <!-- BLOG-POST-LIST:END -->
 <p>&nbsp;&nbsp;&nbsp;&nbsp;and <a href="https://blog.hereis.me/">more</a></p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lj0812/count.svg" />
+</p>
+
 <!--
 **lj0812/lj0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
