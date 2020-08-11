@@ -16,7 +16,8 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;and <a href="https://blog.hereis.me/">more</a></p>
 
 ## 📊 **My Github Stats**
-![github stats](https://github-readme-stats.vercel.app/api?username=lj0812&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats-swart.vercel.app/api?username=lj0812&show_icons=true)
+![most used languages](https://github-readme-stats-swart.vercel.app/api/top-langs/?username=lj0812&layout=compact)
 
 <p align="center"> 
   Visitor count<br>
