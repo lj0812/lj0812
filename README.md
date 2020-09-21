@@ -3,7 +3,7 @@
 ## 🌐 Personal Website
 
 - [HELLO WORLD, HERE IS ME](https://www.hereis.me/)
-- [GIT CHEATSHEET](https://hereis.me/git-cheatsheet)
+- [GIT CHEATSHEET](https://www.hereis.me/git-cheatsheet)
 
 ## 📝 **Recent Blog**
 
