@@ -17,6 +17,9 @@ jobs:
           commit_message: "Updated readme with the latest blog data"
           feed_list: "https://blog.hereis.me/rss.xml"
           
+  generate-github-snake:
+    runs-on: ubuntu-latest
+    steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3.2.0
@@ -25,5 +28,3 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-          
-          
